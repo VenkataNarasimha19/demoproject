@@ -1,3 +1,0 @@
-# demoproject
-demoproject
-hello
